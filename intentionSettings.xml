@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Quote property names" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip Conditional" />
+  </component>
+</application>
