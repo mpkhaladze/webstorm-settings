@@ -1,6 +1,0 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="ctrl meta up" />
-  </action>
-  <action id="GotoRelated" />
-</keymap>
